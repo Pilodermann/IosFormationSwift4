@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "99"; ObjectID = "Cka-uP-lR9"; */
+"Cka-uP-lR9.text" = "99";
+
+/* Class = "UILabel"; text = "République"; ObjectID = "HBh-3i-oXH"; */
+"HBh-3i-oXH.text" = "République";
+
+/* Class = "UILabel"; text = "99"; ObjectID = "JaF-nv-Ihd"; */
+"JaF-nv-Ihd.text" = "99";
+
+/* Class = "UILabel"; text = "République"; ObjectID = "XOv-Iw-IvO"; */
+"XOv-Iw-IvO.text" = "République";
+
+/* Class = "UIButton"; normalTitle = "⭐"; ObjectID = "fjK-NP-Q3D"; */
+"fjK-NP-Q3D.normalTitle" = "⭐";
+
+/* Class = "UISegmentedControl"; gFb-GB-16A.segmentTitles[0] = "Liste"; ObjectID = "gFb-GB-16A"; */
+"gFb-GB-16A.segmentTitles[0]" = "Liste";
+
+/* Class = "UISegmentedControl"; gFb-GB-16A.segmentTitles[1] = "Carte"; ObjectID = "gFb-GB-16A"; */
+"gFb-GB-16A.segmentTitles[1]" = "Carte";
+
+/* Class = "UILabel"; text = "99"; ObjectID = "oMO-uN-Cxr"; */
+"oMO-uN-Cxr.text" = "99";
+
+/* Class = "UILabel"; text = "15,4 km"; ObjectID = "wPt-dH-VYP"; */
+"wPt-dH-VYP.text" = "15,4 km";
+
+/* Class = "UILabel"; text = "99"; ObjectID = "yy0-rV-cv4"; */
+"yy0-rV-cv4.text" = "99";
